@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.vscode/
 
 # C extensions
 *.so
@@ -228,3 +229,4 @@ analysis_progress.md
 
 # Custom
 _main.py
+workspace/
